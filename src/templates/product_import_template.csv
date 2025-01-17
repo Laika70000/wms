@@ -1,0 +1,6 @@
+name;sku;category;price;description;weight;width;height;depth;minStock
+Laptop Stand Pro;LAP-001;Accessoires Bureau;49.99;Support ergonomique ajustable en aluminium;0.8;30;25;22;15
+Souris Gaming RGB;MOU-002;Périphériques Gaming;29.99;Souris gaming 16000 DPI avec éclairage RGB;0.15;12;7;4;20
+Clavier Mécanique;KEY-003;Périphériques;89.99;Clavier mécanique switches Cherry MX Blue;1.2;44;14;4;10
+Écran 27" 4K;MON-001;Écrans;399.99;Moniteur 4K IPS 27 pouces;4.5;61;37;25;5
+Hub USB-C 8 Ports;USB-001;Connectique;39.99;Hub USB-C avec 8 ports et Power Delivery;0.2;15;8;2;25
